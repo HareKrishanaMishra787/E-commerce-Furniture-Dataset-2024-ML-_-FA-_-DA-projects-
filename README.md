@@ -84,4 +84,13 @@ It provides insights into **customer purchasing behavior, sales trends, discount
 
 ---
 
-## 👨‍💻
+## 👨‍💻 Author  
+**Hare Krishana Mishra**  
+_Data Analytics Intern @ Unified Mentor | Aspiring Data Scientist_  
+📍 Varanasi, India  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/hare-krishana-mishra-10683a238/) | [GitHub](https://github.com/HareKrishanaMishra787)  
+
+---
+
+⭐ If you found this project useful, don’t forget to **star the repo**!
